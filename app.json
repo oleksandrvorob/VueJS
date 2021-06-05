@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dokku": {
+      "predeploy": "npm run build"
+    }
+  },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }]
+}

@@ -1,0 +1,436 @@
+[{
+    "state": "Abia",
+    "area": [
+      "Aba",
+      "Ikwuano",
+      "Ohafia",
+      "Ukwa",
+      "Umuahia"
+    ]
+  },
+  {
+    "state": "Abuja",
+    "area": [
+      "Abaji",
+      "Apo",
+      "Asokoro District",
+      "Bwari",
+      "Central Area Phase 2",
+      "Central Business District",
+      "Dakibiyu",
+      "Dakwo",
+      "Dape",
+      "Dei-Dei",
+      "Diplomatic Zones",
+      "Duboyi",
+      "Durumi",
+      "Dutse",
+      "Gaduwa",
+      "Galadimawa",
+      "Garki",
+      "Gudu",
+      "Guzape District",
+      "Gwagwalada",
+      "Gwarinpa",
+      "Idu Industrial",
+      "Institution and Research",
+      "Jabi",
+      "Jahi",
+      "Jukwoyi",
+      "Kaba",
+      "Kabusa",
+      "Kado",
+      "Kafe",
+      "Kagini",
+      "Karmo",
+      "Karsana",
+      "Karshi",
+      "Karu",
+      "Katampe",
+      "Kaura",
+      "Kubwa",
+      "Kuje",
+      "Kukwuaba",
+      "Kurudu",
+      "Kwali",
+      "Kyami",
+      "Lokogoma District",
+      "Lugbe District",
+      "Mabuchi",
+      "Maitama District",
+      "Mbora",
+      "Mpape",
+      "Nyanya",
+      "Orozo",
+      "Utako",
+      "Wumba",
+      "Wuse",
+      "Wuse 2",
+      "Wuye"
+
+    ]
+
+  },
+  {
+    "state": "Akwa Ibom",
+    "area": [
+      "Eket",
+      "Etim-Ekpo",
+      "Ibesikpo-Asutan",
+      "Ibiono-Ibom",
+      "Ikot Ekpene",
+      "Nsit-Ibom",
+      "Uyo"
+    ]
+  },
+  {
+    "state": "Anambra",
+    "area": [
+      "Aguata",
+      "Anambra",
+      "Anaocha",
+      "Awka",
+      "Dunukofia",
+      "Idemili",
+      "Onitsha",
+      "Oyi"
+    ]
+  },
+  {
+    "state": "Bauchi",
+    "area": [
+      "Bauchi"
+    ]
+  },
+  {
+    "state": "Bayelsa",
+    "area": [
+      "Bayelsa",
+      "Yenagoa",
+      "Benue",
+      "Gboko",
+      "Makurdi"
+    ]
+  },
+  {
+    "state": "Cross River",
+    "area": [
+      "Cross River",
+      "Akamkpa",
+      "Akpabuyo",
+      "Calabar",
+      "Ikom",
+      "Obudu"
+    ]
+  },
+  {
+    "state": "Delta",
+    "area": [
+      "Asaba",
+      "Ethiope East",
+      "Ethiope West",
+      "Ika North East",
+      "Isoko South",
+      "Ndokwa West",
+      "Okpe",
+      "Oshimili North",
+      "Oshimili South",
+      "Sapele",
+      "Udu",
+      "Ughelli North",
+      "Ughelli South",
+      "Uvwie",
+      "Warri",
+      "Ebonyi",
+      "Ohaukwu"
+    ]
+  },
+  {
+    "state": "Edo",
+    "area": [
+      "Akoko Edo",
+      "Egor",
+      "Esan Central",
+      "Esan North-East",
+      "Esan South-East",
+      "Esan West",
+      "Etsako West",
+      "Ikpoba Okha",
+      "Oredo",
+      "Ovia North-East",
+      "Ovia South-West",
+      "Owan West",
+      "Uhunmwonde"
+    ]
+  },
+  {
+    "state": "Ekiti",
+    "area": [
+      "Ado-Ekiti",
+      "Ikole"
+    ]
+  },
+  {
+    "state": "Enugu",
+    "area": [
+      "Nkanu",
+      "Nsukka"
+    ]
+  },
+  {
+
+    "state": "Imo",
+    "area": ["Ngor Okpala",
+      "Oguta",
+      "Ohaji/Egbema",
+      "Okigwe",
+      "Oru West",
+      "Owerri",
+      "Owerri North"
+    ]
+  },
+  {
+    "state": "Kaduna",
+    "area": [
+      "Birnin Gwari",
+      "Chikun",
+      "Igabi",
+      "Kachia",
+      "Kaduna North",
+      "Kaduna South",
+      "Kajuru",
+      "Zaria"
+    ]
+  },
+  {
+    "state": "Kano",
+    "area": [
+      "Dawakin Tofa",
+      "Fagge",
+      "Gwale",
+      "Kano",
+      "Kano Municipal",
+      "Nassarawa"
+    ]
+  },
+  {
+    "state": "Katsina",
+    "area": ["Faskari",
+      "Katsina"
+    ]
+  }, {
+    "state": "Kogi",
+    "area": ["Ajaokuta",
+      "Kabba/Bunu",
+      "Kogi",
+      "Lokoja"
+    ]
+  },
+  {
+    "state": "Kwara",
+    "area": [
+      "Asa",
+      "Ilorin East",
+      "Ilorin South",
+      "Ilorin West",
+      "Irepodun"
+    ]
+  },
+  {
+    "state": "Lagos",
+    "area": ["Agbara-Igbesa",
+      "Agege",
+      "Ajah",
+      "Alimosho",
+      "Apapa",
+      "Ayobo",
+      "Badagry",
+      "Egbe",
+      "Ejigbo",
+      "Eko Atlantic City",
+      "Epe",
+      "Gbagada",
+      "Ibeju",
+      "Ibeju Lekki",
+      "dimu",
+      "Ifako-Ijaiye",
+      "Iganmu",
+      "Ijaiye",
+      "Ijede",
+      "Ijesha",
+      "Ikeja",
+      "Ikorodu",
+      "Ikotun",
+      "Ikoyi",
+      "Ilupeju",
+      "Imota",
+      "Ipaja",
+      "Isheri",
+      "Isheri North",
+      "Isolo",
+      "Itire",
+      "Ketu",
+      "Kosofe",
+      "Lagos Island",
+      "Lekki",
+      "Magodo",
+      "Maryland",
+      "Mushin",
+      "Ogudu",
+      "Ojo",
+      "Ojodu",
+      "Ojota",
+      "Oke-Odo",
+      "Orile",
+      "Oshodi",
+      "Shomolu",
+      "Surulere",
+      "Victoria Island (VI)",
+      "Yaba"
+    ]
+  },
+  {
+    "state": "Nasarawa",
+    "area": [
+      "Karu",
+      "Keffi",
+      "Lafia",
+      "Nasarawa"
+    ]
+
+  },
+  {
+    "state": "Niger",
+    "area": [
+      "Gurara",
+      "Minna",
+      "Suleja",
+      "Tafa"
+    ]
+  },
+  {
+    "state": "Ogun",
+    "area": [
+      "Abeokuta North",
+      "Abeokuta South",
+      "Ado-Odo/Ota",
+      "Agbara",
+      "Berger, Arepo",
+      "Ewekoro",
+      "Ibafo",
+      "Ifo",
+      "Ijebu East",
+      "Ijebu North",
+      "Ijebu Ode",
+      "Imeko Afon",
+      "Ipokia",
+      "Isheri North",
+      "KM 46",
+      "Magboro",
+      "Mowe Ofada",
+      "Obafemi Owode",
+      "Odeda",
+      "Odogbolu",
+      "Ogun Waterside",
+      "Ojigo",
+      "Remo North",
+      "Sagamu",
+      "Sango Ota",
+      "Simawa",
+      "Yewa North",
+      "Yewa South"
+
+    ]
+  },
+  {
+    "state": "Ondo",
+    "area": [
+      "Akoko South-West",
+      "Akure",
+      "Odigbo",
+      "Ondo East",
+      "Ondo West",
+      "Owo"
+
+    ]
+  },
+  {
+    "state": "Osun",
+    "area": [
+      "Aiyedaade",
+      "Aiyedire",
+      "Ede North",
+      "Ede South",
+      "Ife Central",
+      "Ife East",
+      "Ife North",
+      "Ilesa East",
+      "Ilesa West",
+      "Irepodun",
+      "Iwo",
+      "Obokun",
+      "Osogbo"
+    ]
+  },
+  {
+    "state": "Oyo",
+    "area": [
+      "Afijio",
+      "Akinyele",
+      "Atiba",
+      "Atisbo",
+      "Egbeda",
+      "Ibadan",
+      "Ibarapa Central",
+      "Ibarapa North",
+      "Ido",
+      "Iseyin",
+      "Itesiwaju",
+      "Lagelu",
+      "Ogbomosho North",
+      "Ogbomosho South",
+      "Ogo Oluwa",
+      "Oluyole",
+      "Ori Ire",
+      "Oyo East",
+      "Oyo West"
+    ]
+  },
+  {
+
+    "state": "Plateau",
+    "area": [
+      "Jos East",
+      "Jos North",
+      "Jos South"
+    ]
+  },
+  {
+    "state": "Rivers",
+    "area": [
+      "Bonny",
+      "Eleme",
+      "Etche",
+      "Ikwerre",
+      "Obio-Akpor",
+      "Oyigbo",
+      "Port Harcourt"
+    ]
+
+
+  },
+  {
+    "state": "Sokoto",
+    "area": ["Sokoto North"]
+  },
+  {
+        "state": "Taraba",
+         "area":["Jalingo"
+         ]
+  },
+  {
+        "state":"Zamfara",
+        "area":["Gusau"]
+  }   
+
+]

@@ -1,0 +1,42 @@
+{
+  "name": "2dotsproperties",
+  "version": "1.0.0",
+  "description": "2dots Property",
+  "private": true,
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": "3500"
+    }
+  },
+  "scripts": {
+    "dev": "nuxt --hostname localhost --port 3500",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/google-analytics": "^2.2.0",
+    "@nuxtjs/google-tag-manager": "^2.2.1",
+    "@nuxtjs/pwa": "^2.6.0",
+    "@nuxtjs/robots": "^2.4.2",
+    "cross-env": "^5.2.0",
+    "emoji-vue": "^0.2.4",
+    "lingallery": "^1.1.25",
+    "nuxt": "^2.4.5",
+    "nuxt-buefy": "^0.3.2",
+    "nuxt-user-agent": "^1.0.2",
+    "vue": "^2.6.10",
+    "vue-currency-filter": "^3.4.2",
+    "vue-infinite-slide-bar": "^1.0.8",
+    "vue-load-image": "^0.1.7",
+    "vue-paystack": "^2.0.2",
+    "vue-reactive-localstorage": "^1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "eslint-plugin-prettier": "2.6.2",
+    "prettier": "1.14.3"
+  }
+}
